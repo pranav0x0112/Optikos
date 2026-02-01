@@ -1,9 +1,6 @@
 # Optikos
 
-On-device plant health monitoring using a Raspberry Pi and Camera Module.
-
-Purpose
-- Provide a lightweight, vision-based screening tool to detect plant stress and vitality issues (healthy vs stressed).
+On-device plant health monitoring using a Raspberry Pi and Camera Module. Provide a lightweight, vision-based screening tool to detect plant stress and vitality issues (healthy vs stressed).
 
 Project layout
 ```
